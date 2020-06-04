@@ -1,0 +1,11 @@
+ded6a678aa710edda346a4652321d067 *DESCRIPTION
+a67229818cc1c4d06d6e410c2661ac72 *NAMESPACE
+48007910c3c4cb06e27034353c7f069e *NEWS.md
+112ddcf75eac35a6807677b92c1295aa *R/func_hidden.R
+6ce9dc4a7efeeec86036c492c364a492 *R/rmst2perm.R
+866a3f20663ae7d965be19dce244ca15 *R/rmst2perm.sample.data.R
+8a950e2db9fe61bd67e052e6cb087bb9 *R/survRM2perm-package.R
+587f0aa4b33ac13806a3f28bfb62ef59 *man/print.rmst2perm.Rd
+fcb5009592a4691e55da834bec18ed80 *man/rmst2perm.Rd
+fc92868ee4f579d1f8bf48b9e595d3b9 *man/rmst2perm.sample.data.Rd
+96e219cec2b2a56252b6ad46012642fb *man/survRM2perm-package.Rd
